@@ -231,7 +231,7 @@ void continueShopping(){
   }
   else if(answer == 'no'){
     totalShoppingPayment += totalPayment;
-    print('You spend $totalShoppingPayment dollars.');
+    print('You spent $totalShoppingPayment dollars today.');
     print('Thank you for visiting us!');
   }
   else{
