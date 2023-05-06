@@ -8,5 +8,6 @@
 | Lesson | Topic                                             |
 |  ----  | ------------------------------------------------- |
 |   1    | *No Assigment(s) for lesson 1*                    |
-|   2    | [Lesson 2](lesson_two_tasks/README.md)          |
-|   3    | [Lesson 3](lesson_three_tasks/README.md)        |
+|   2    | [Lesson 2](lesson_two_tasks/README.md)            |
+|   3    | [Lesson 3](lesson_three_tasks/README.md)          |
+|   4    | [Lesson 4](lesson_four_tasks/README.md)           |
