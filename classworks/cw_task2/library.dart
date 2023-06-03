@@ -2,6 +2,7 @@ import 'book.dart';
 
 class Library{
   late List<Book> books = [];
+
   late Map<int, String> genres = {1: 'fiction', 2: 'adventure', 3: 'comic', 4: 'drama', 5: 'sci-fi', 6: 'thriller'};
 
   Library();
@@ -11,8 +12,8 @@ class Library{
     if(genres.containsValue(bookGenre)){
       genre = genres.keys.firstWhere((key) => genres[key] == bookGenre);
     } else{
-      genres.addAll({genres.length: bookGenre});
-      genre = genres.length;
+      genres.addAll({(genres.length+1): bookGenre});
+      genre = genres.length+1;
     }
     Book book = Book(title, author, publicationYear, price, genre);
     books.add(book);
