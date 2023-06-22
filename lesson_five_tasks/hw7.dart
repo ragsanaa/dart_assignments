@@ -1,4 +1,3 @@
-import 'dart:io';
 
 void main(){
   List<int> mixedList = [1, 3, 5, 4, 5];
