@@ -1,7 +1,7 @@
 
 void main(){
   List<int> mixedList = [1, 3, 5, 4, 5];
-
+  print("Given list: $mixedList");
   int max = 0;
   int secondMax = 0;
 
@@ -24,7 +24,7 @@ void main(){
       }
     }
   }
-  print("\n" + secondMax.toString());
+  print("\nSecond largest number" + secondMax.toString());
 
 
   // print("List before removing duplicates: $mixedList");
