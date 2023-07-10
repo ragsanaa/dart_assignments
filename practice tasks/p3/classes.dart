@@ -20,7 +20,6 @@ class OrderingSystem <T extends FoodItem>{
 
   void removeItems(String orderName){
     String name = orderName.toLowerCase();
-    FoodItem removedOrder;
     for(int i=0;i<orders.length; i++){
       if(orders[i].name.toLowerCase() == name){
         orders.remove(orders[i]);
