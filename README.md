@@ -13,5 +13,5 @@
 | [Lesson 4](lesson_four_tasks/README.md)           |
 | [Lesson 5](lesson_five_tasks/README.md)           |
 | [Lesson 6](lesson_six_tasks/README.md)            |
-| [Practice Tasks](practice tasks/README.md)        |
+| [Practice Tasks](practice_tasks/README.md)        |
 
