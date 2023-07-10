@@ -5,10 +5,10 @@
 
 ## Practice Tasks
 
-| Content                                             |
-| ----------------------------------------------------|
-| [Task 1](practice_tasks/p1) - Operations on numbers |
-| [Task 2](practice_tasks/p2) - Media Player App      |
-| [Task 3](practice_tasks/p3) - Restorant Order App   |
+| Content                                                       |
+| --------------------------------------------------------------|
+| [Task 1](practice_tasks/p1/README.md) - Operations on numbers |
+| [Task 2](practice_tasks/p2/README.md) - Media Player App      |
+| [Task 3](practice_tasks/p3/README.md) - Restorant Order App   |
 
 

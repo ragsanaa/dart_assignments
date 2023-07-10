@@ -5,14 +5,14 @@
 
 ## Classworks
 
-| Content                                |
-| ---------------------------------------|
-| [Task 1](classworks/cw_task1)          |
-| [Task 2](classworks/cw_task2)          |
-| [Task 3](classworks/cw_task3)          |
-| [Task 4](classworks/cw_task4)          |
-| [Task 5](classworks/cw_task5)          |
-| [Task 6](classworks/cw_task6)          |
-| [Task 7](classworks/cw_task7)          |
-| [Task 8](classworks/cw_task8)          |
+| Content                                          |
+| -------------------------------------------------|
+| [Task 1](classworks/cw_task1/README.md)          |
+| [Task 2](classworks/cw_task2/README.md)          |
+| [Task 3](classworks/cw_task3/README.md)          |
+| [Task 4](classworks/cw_task4/README.md)          |
+| [Task 5](classworks/cw_task5/README.md)          |
+| [Task 6](classworks/cw_task6/README.md)          |
+| [Task 7](classworks/cw_task7/README.md)          |
+| [Task 8](classworks/cw_task8/README.md)          |
 
