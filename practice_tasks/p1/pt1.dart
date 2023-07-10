@@ -1,6 +1,7 @@
 main(){
   List<int> numbers = [12, 4, 5, 23, 9, 21, 7, 8, 10, 3];
 
+  print("Given numbers: $numbers\n");
   findMax(numbers);
   findMin(numbers);
   sumNumbers(numbers);
