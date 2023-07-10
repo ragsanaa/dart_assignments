@@ -1,5 +1,6 @@
 void main(List<String> args) {
   Rectangle r = Rectangle(10, 20);
+  print("Width: ${r.width} Height: ${r.height}\n");
   r.perimeter();
   r.area();
 }
